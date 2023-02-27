@@ -1,7 +1,7 @@
 # Java_study
 Study Java
 
-Tool : eclipse
+<a style = "bold">Tool : eclipse</a>
 <br>
 java를 이용한 전반적인 프로그래밍 기술 이해와 습득
 <br>
@@ -22,8 +22,13 @@ java를 이용한 전반적인 프로그래밍 기술 이해와 습득
 <br>
 
 자료구조
+<br>
  ▶︎ 배열(Array)
+ <br>
  ▶︎ 연결리스트(LinkedList)
+ <br>
  ▶︎ Stack
+ <br>
  ▶︎ Queue
+ <br>
  ▶︎ Map 인터페이스를 구현한 클래스와 그 활용
