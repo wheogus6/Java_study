@@ -1,7 +1,7 @@
 # Java_study
 Study Java
 
-<a style = "bold">Tool : eclipse</a>
+<b>Tool : eclipse</b>
 <br>
 <br>
 java를 이용한 전반적인 프로그래밍 기술 이해와 습득
